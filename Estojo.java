@@ -7,8 +7,6 @@ public class Estojo {
                   c1.status();
 
                   Caneta c2 =new Caneta("Cristasl","Roxa", 0.4f);
-
-                  Caneta c2 =new Caneta("Cristaswww","Roxaww", 0.4f);
                   c2.status();
 
 
